@@ -53,7 +53,7 @@ No configuration required. Works with any agent that reads system prompt instruc
 
 ## Want More?
 
-This checklist is a sample of **[Greyline: Agent Security]([[https://www.shopclawmart.com/listings/fa48a090-ac38-49d0-a169-888574a18c54])** — a full counter-intelligence skill for autonomous agents that adds behavioral scanning, adversarial testing, and threat feed integration.
+This checklist is a sample of **[Greyline: Agent Security](https://www.shopclawmart.com/listings/fa48a090-ac38-49d0-a169-888574a18c54)** ($49 on ClawMart) — adds a persistent trust ledger, prompt injection detection across 8 attack classes, MCP server vetting, endpoint trust scoring, and cross-session threat memory.
 
 ---
 
