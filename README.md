@@ -53,7 +53,7 @@ No configuration required. Works with any agent that reads system prompt instruc
 
 ## Want More?
 
-This checklist is a sample of **[Greyline: Agent Security](https://shopclawmart.com)** — a full counter-intelligence skill for autonomous agents that adds behavioral scanning, adversarial testing, and threat feed integration.
+This checklist is a sample of **[Greyline: Agent Security]([https://shopclawmart.com](https://www.shopclawmart.com/listings/a1aa7074-af1e-4c08-a886-483e0a0bb874))** — a full counter-intelligence skill for autonomous agents that adds behavioral scanning, adversarial testing, and threat feed integration.
 
 ---
 
